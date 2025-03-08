@@ -1,7 +1,6 @@
 {
   "name": "mam8march",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "React приложение для поздравления",
   "main": "src/index.js",
   "homepage": "https://dimajpeg.github.io/rimma5/",
@@ -34,12 +33,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> f6ccaf480cd187571f82090b2200cc39c616b0d0
   },
   "private": true
 }
