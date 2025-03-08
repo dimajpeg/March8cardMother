@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React приложение для поздравления",
   "main": "src/index.js",
-  "homepage": "https://dimajpeg.github.io/rimma5/",
+  "homepage": "https://dimajpeg.github.io/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
