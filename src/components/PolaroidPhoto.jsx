@@ -5,7 +5,7 @@ import './PolaroidPhoto.css';  // Импортируем стиль для фо�
 const PolaroidPhoto = () => {
     return (
         <div className="polaroid">
-            <img src="/rimma5/pal1.jpg" alt="Фото с ней" className="polaroid-img" />
+            <img src="/pal1.jpg" alt="Фото с ней" className="polaroid-img" />
         </div>
     );
 };
